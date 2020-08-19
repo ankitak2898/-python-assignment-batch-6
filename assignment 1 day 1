@@ -1,0 +1,16 @@
+What is python? What are the ways to install python in your PC?
+Python was developed by Guido van Rossum in 1991 and gained popularity in 2006.Python is an object oriented programming language.developers can learn python easily. it involves less amount of code as compared to other programming languages.
+Its syntax is easier to read.
+it is utilized by major technology companies.
+it contsins huge amount of open source libraries  
+ways:
+install anaconda from anaconda.com
+select wether to install on windows os , mac os or linux
+then select from 64 bit or 32 bit 
+
+what are code environments?types of code environments
+A code environment is a place where you can type your code,compile your code and see the output of your code all at the same time.
+there are 3 types of code environments:
+1)Text Editor 
+2)Fll IDES (Integrated development environment)
+3)Notebook
